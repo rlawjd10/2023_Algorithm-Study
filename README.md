@@ -36,8 +36,8 @@
 | 회차    | 목차         | 기간      | 김정은  | 이채현 | 양재연 | 김재연| 이유경 | 신혜지|
 | ------: | :-----------| ----------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | 1 | 2장 분할정복 | 23-03-29 ~ 23-04-02|:white_check_mark: |:white_check_mark: |:white_check_mark: | -  |:white_check_mark: |:white_check_mark: |
-| 2 | 2장 분할정복 | 23-04-03 ~ 23-04-09|-  | -  |- |-  |-  | -  |
-| 3 | 1장 알고리즘 : 효율, 분석, 차수 | 23-04-10 ~ 23-04-16|-  | -  |-  |-  |-  | -  |
+| 2 | 2장 분할정복 | 23-04-03 ~ 23-04-09|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: | :white_check_mark:|
+| 3 | 1장 알고리즘 : 효율, 분석, 차수 | 23-04-10 ~ 23-04-16|:white_check_mark: | :white_check_mark:|:white_check_mark: |:white_check_mark: |:white_check_mark: | :white_check_mark: |
 | 4 | 3장 동적계획 | 23-05-03 ~ 23-05-07|-  | -  |-  | -  |- | -  |
 | 5 | 4장 탐욕 알고리즘 | 23-05-08 ~ 23-05-14|-  | -  |-  | -  |-  |-  |
 | 6 | 4장 탐욕 알고리즘 | 23-05-15 ~ 23-05-21|-  | -  |-  | -  |-  |-  |
